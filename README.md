@@ -326,4 +326,4 @@ USE_GPU = True
 ### 연락처
 
 -   **Email**: `koto144@gmail.com`
--   **Issues**: [GitHub Issues](https://github.com/hnextits/telepathy_rag/issues)
+-   **Issues**: [GitHub Issues](https://github.com/JEONGHEESIK/RAG/issues)
