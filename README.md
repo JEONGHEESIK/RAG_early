@@ -325,5 +325,5 @@ USE_GPU = True
 
 ### 연락처
 
--   **Email**: `jeongnext@hnextits.com`, `junseung_lim@hnextits.com`, `freak91uk@hnextits.com`
+-   **Email**: `koto144@gmail.com`
 -   **Issues**: [GitHub Issues](https://github.com/hnextits/telepathy_rag/issues)
