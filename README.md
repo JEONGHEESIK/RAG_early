@@ -1,6 +1,4 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/4547f2d9-b5d7-4dbe-8871-bef3576b0862" width="500" height="350"/>
-
 ![python](https://img.shields.io/badge/python-3.11~3.12-aff.svg)
 ![os](https://img.shields.io/badge/os-linux-pink.svg)
 
@@ -247,8 +245,8 @@ gunicorn -w 4 -k uvicorn.workers.UvicornWorker rag_fastapi:app --bind 0.0.0.0:80
 ## 연락처
 
 문의사항이 있으시면 다음 연락처로 문의해 주세요:
-- 이메일: jeongnext@hnextits.com, junseung_lim@hnextits.com, freak91uk@hnextits.com
-- 이슈 트래커: [GitHub Issues](https://github.com/hnextits/telepathy_rag/issues) 사용
+- 이메일: koto144@gmail.com
+- 이슈 트래커: [GitHub Issues](https://github.com/JEONGHEESIK/RAG/issues) 사용
 
 ## 감사의 말씀
 
