@@ -1,6 +1,4 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/4547f2d9-b5d7-4dbe-8871-bef3576b0862" width="500" height="350"/>
-
 <br>
 
 ![python](https://img.shields.io/badge/python-3.11~3.12-aff.svg)
