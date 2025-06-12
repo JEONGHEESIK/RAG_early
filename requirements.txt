@@ -1,0 +1,47 @@
+# Core Dependencies
+fastapi>=0.104.0
+uvicorn>=0.24.0
+python-multipart>=0.0.6
+pydantic>=2.4.2
+python-dotenv>=1.0.0
+
+# Machine Learning & Deep Learning
+transformers>=4.35.0
+torch>=2.0.0
+torchvision>=0.15.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4  # Use faiss-gpu for GPU support
+
+# Image Processing
+Pillow>=10.0.0
+opencv-python-headless>=4.8.0
+
+# Utilities
+tqdm>=4.66.1
+numpy>=1.24.0
+pandas>=2.0.0
+requests>=2.31.0
+python-magic>=0.4.27
+
+# API Clients
+httpx>=0.24.1
+websockets>=11.0.3
+
+# Development Tools
+black>=23.7.0
+isort>=5.12.0
+mypy>=1.5.1
+pylint>=3.0.2
+pytest>=7.4.2
+
+# Documentation
+mkdocs>=1.5.2
+mkdocs-material>=9.2.1
+
+# Optional: For GPU support (uncomment if needed)
+# faiss-gpu>=1.7.4
+# nvidia-cudnn-cu11>=8.6.0
+# nvidia-cuda-runtime-cu11>=11.8.89
+
+# Ollama Python Client
+ollama>=0.1.5
